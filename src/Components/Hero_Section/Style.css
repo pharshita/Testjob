@@ -1,0 +1,95 @@
+.dropdown {
+    padding: 10px 0px 90px 0;
+}
+
+.dropdown select {
+    width: 54%;
+    height: 45px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+.serchbar{
+   text-align: end;
+   padding: 10px 20px 90px 0;
+   
+}
+.serchbar input{
+    height: 45px;
+    border: none;
+    border-bottom: 1px solid #000;
+
+}
+.serchbar input:focus-visible{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #000;
+
+}
+
+
+.card h3 {
+    font-size: 15px;
+    font-weight: 700;
+    padding-bottom: 10px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    padding: 5px;
+    /* box-shadow: none; */
+}
+
+.card h6 {
+    height: 40px;
+    width: 100%;
+    font-size: 13px;
+}
+
+.card a {
+    height: 50px;
+    font-size: 11px;
+}
+
+.media-content {
+    text-align: center;
+}
+
+.card-image figure {
+    width: 118px;
+    height: 167px;
+    align-items: center;
+    display: flex;
+}
+
+.card-image {
+
+    display: flex;
+    justify-content: center;
+}
+
+.card-image figure img {
+    object-fit: contain;
+    background-size: cover;
+    padding: 20px 0px;
+}
+
+.card .media-content {
+    width: auto;
+}
+
+.rating {
+    text-align: center;
+}
+
+.set_card {
+    width: 246px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+
